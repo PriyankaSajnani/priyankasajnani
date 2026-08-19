@@ -2,7 +2,8 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Priyanka, a software developer and open-source contributor. I enjoy building real-world applications that combine software engineering with AI/ML — from full-stack web apps to intelligent, data-driven systems. Always learning something new.
+I'm a software developer and open-source contributor. I enjoy coding open-source projects that solve unique problems and building things that are useful in the real world. I love experimenting with AI/ML, exploring new technologies, and turning random ideas into projects.
+
 &nbsp;
 
 &nbsp;
